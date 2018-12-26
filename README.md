@@ -1,5 +1,7 @@
 # 20-Newsgroup-Topic-Categorization
+
 Categorization of [20 Newsgroup](http://qwone.com/~jason/20Newsgroups/) (Reddit-like opinion threads) entries by:
+
 
 
 (1) Pre-processing the entries by eliminating conjunctions, prepositions, and symbols 
@@ -12,7 +14,8 @@ sklearn libraries to classify each entry to a correct topic
 (4) Comparing the performace of each algorithm 
 
 
-*This is done for a project while taking a [machine learning course](https://www.cs.toronto.edu/~jlucas/teaching/csc411/) at University of Toronto.
+
+*This is done for a project while taking a [machine learning course](https://www.cs.toronto.edu/~jlucas/teaching/csc411/) at University of Toronto.*
 
 ## Results
 
